@@ -1,0 +1,1 @@
+export { default } from 'ember-active-link-wrapper/components/active-link';
